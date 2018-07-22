@@ -1,18 +1,5 @@
 # print("hello world!")
 
-
-# def s(a, b):
-#     return a + b
-
-# name = input('姓名:')
-
-# if name == "郑俊玲":
-#     print("你好" + name)
-# else:
-#     print(name + "错误")
-
-
-
 # for i in range(0, 2020):
 #     if i%4==0:
 #         if i%100==0:
@@ -21,10 +8,11 @@
 #         else:
 #             print(i)
 
-l = [1, 2, 3, 4, 5]
-k = (1,2,3,4,5)
+# l = [1, 2, 3, 4, 5]
+# k = (1,2,3,4,5)
+# l = {2,3}
 
-print(l[1])
+# print(l[1])
 # b = ['abc', 'dddd', '你好']
 
 # c = [l, b]
@@ -60,3 +48,5 @@ p3 ={'name':'zhangsan2','age':12,'wet':32}
 a =[p1,p2,p3]
 for p in a:
     print(p['name'])
+
+# 这里是注释
