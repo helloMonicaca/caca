@@ -48,5 +48,3 @@ p3 ={'name':'zhangsan2','age':12,'wet':32}
 a =[p1,p2,p3]
 for p in a:
     print(p['name'])
-
-# 这里是注释
